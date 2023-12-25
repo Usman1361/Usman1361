@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Usman1361/Usman1361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Usman, a passionate developer who loves to create amazing things.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning and exploring new technologies.
+- 💡 I enjoy solving problems and building cool stuff.
+- 📚 I believe in continuous learning and improvement.
+
+## 🛠️ Technologies
+
+- 💻 JavaScript | HTML | CSS
+- 🚀 Next | React | Node.js | Express
+- 🛢️ MongoDB | MySQL
+- ⚙️ Git | GitHub Actions
+
+
+## 📫 Let's Connect
+
+- Twitter:  [Itz_UsmanJ](https://x.com/Itz_UsmanJ?t=SONvOoC8sVdNN4H_btFTkw&s=09)
+- LinkedIn: ([Usman](https://www.linkedin.com/in/muhammad-usman-aa7023230/))
+- Website: [Usman](https://usman-portfolio-app.netlify.app/))
+
+## 🎉 Thanks for visiting!
+
+Feel free to explore my projects and repositories. Don't hesitate to reach out for collaboration or just to say hi! 🚀
